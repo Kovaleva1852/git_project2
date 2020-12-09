@@ -8,6 +8,7 @@ def main():
     print('Again')
     print('UFO came and added this line')
     print('Hello')
+    print('1')
     my_superfunction()
 
 
